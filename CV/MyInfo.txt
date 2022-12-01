@@ -4,3 +4,4 @@ Delonville
 francois.delonville@hotmail.com
 2 rue Elisabeth, 5030 Gembloux
 081 60 01 19
+hobbies : a, b, c, d
